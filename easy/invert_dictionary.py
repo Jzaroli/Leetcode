@@ -1,12 +1,11 @@
 """
 Write a function that inverts a given dictionary.
-
 The keys become values, and the values become keys.
 Assume that all values in the original dictionary are unique.
 """
 
-d = {"apple": "fruit", 
-     "carrot": "vegetable", 
+d = {"apple": "fruit",
+     "carrot": "vegetable",
      "dog": "animal"
      }
 
