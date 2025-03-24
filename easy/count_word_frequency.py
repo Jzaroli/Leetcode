@@ -41,5 +41,4 @@ def word_count(s: str) -> dict:
     return dict(Counter(words))  # Automatically counts occurrences
 
 print(word_count("Hello world! Hello again, world."))
-
 """
