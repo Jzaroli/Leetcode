@@ -1,3 +1,3 @@
-# leetcode
+# Leetcode
 
-A series of leet code exercises. Some optimized, some not! Broken down by difficulty. 
+A series of leet code exercises. Some optimized, some not! Organized by difficulty.
